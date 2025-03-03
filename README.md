@@ -1,7 +1,7 @@
 # Offline-voice-assistant-
 AI Voice Assistant with Offline Capabilities | Python | Whisper | Ollama
 
-# Contanglimitation AI Assistant 🤖  
+# Offline AI Assistant 🤖  
 **Privacy-First Offline Voice Assistant**  
 
 
