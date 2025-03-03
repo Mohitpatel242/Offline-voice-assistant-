@@ -1,0 +1,11 @@
+streamlit
+langchain_core
+langchain_community
+langchain_ollama
+pdfplumber
+sounddevice~=0.5.1
+numpy~=1.26.4
+openai-whisper~=20240930
+ollama~=0.4.7
+pyttsx3~=2.98
+keyboard~=0.13.5
