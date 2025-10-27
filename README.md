@@ -1,9 +1,8 @@
-# Offline-voice-assistant-
-AI Voice Assistant with Offline Capabilities | Python | Whisper | Ollama
-
 # Offline AI Assistant 🤖  
 **Privacy-First Offline Voice Assistant**  
 
+**G-drive link for images of Robot**
+https://drive.google.com/drive/folders/1mtayP0xOgwxrxPYqi9GHUKjvEISW_vXs?usp=sharing
 
 ## 🚀 Features  
 - **100% Offline** - No internet required, no data leaves your device  
